@@ -19,7 +19,7 @@ public class Liga {
      */
     public static void main(String[] args) {
       JOptionPane.showMessageDialog(null, "hola");
-        JOptionPane.showMessageDialog(null, "muerete perraaa");
+      
     }
     
 }
